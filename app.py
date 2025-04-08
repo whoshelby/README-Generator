@@ -86,7 +86,7 @@ HTML_TEMP = """
 <body>
     <div class="container">
         <h1 class="text-center mb-4">README Generator 🚀</h1>
-        <p class="text-center text-muted mb-4">Craft a cool, detailed README.md with OpenRouter AI</p>
+        <p class="text-center text-muted mb-4">Craft a cool, detailed README.md with Python</p>
 
         <form method="POST" action="/">
             <div class="mb-3">
