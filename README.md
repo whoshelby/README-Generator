@@ -10,7 +10,7 @@
 Welcome to README Generator, the ultimate tool for creating professional-looking README files with ease! 🔧 This project uses a combination of website scraping and AI-powered page generation to create a stunning README file that's ready to impress. Whether you're a developer, designer, or entrepreneur, this tool has got you covered.
 
 ## Give Us a Try
-- [README Generator](https://readme-generator-zg9o.onrender.com)
+- [README Generator](https://readme-generator-zg9o.onrender.com) (Discontinued)
 
 ## Features 🎉
 
